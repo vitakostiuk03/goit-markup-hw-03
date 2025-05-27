@@ -169,6 +169,14 @@ a{
     width: calc((100% - 72px) / 4);
 }
 
+.team-img{
+    display: block;
+}
+
+.portfolio-img{
+ display: block;
+}
+
 .team-section{
     background: #f4f4fd;
     padding: 120px 0;
